@@ -1,1 +1,1 @@
-THis project contains and showcases projects in the area of Power BI and python in areas of Bussines Data Analysis and Machine learning . 
+THis repository contains ongoing Power BI projects showcasing important KPI's such as peak working hours in a pizza restaurant, Past World Cup games among others . 
