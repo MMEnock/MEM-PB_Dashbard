@@ -25,7 +25,7 @@ To use this Power BI report, you need:
 ## Usage
 To view and interact with the reports:
 1. Open Power BI Desktop.
-2. Load the `Mavin Pizzas.pbix` file.
+2. Load the `Mavin Pizzas.pbix` file for example.
 3. Refresh the data sources to fetch the latest data.
 4. Navigate through different tabs to explore various insights.
 
