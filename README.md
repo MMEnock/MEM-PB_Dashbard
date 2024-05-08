@@ -8,8 +8,8 @@ This Power BI project provides comprehensive analytics for Mavin Pizzas, Yummy R
 - **Customer Segmentation**: Insights into customer demographics and purchasing patterns.
 - **Operational Metrics**: Analysis of store performance, product popularity, and supply chain efficiency.
 - **Interactive Dashboards**: Customizable views to explore data based on different parameters and time frames.
-- **Winning products and Sales provided , Date to Date Sales and Bussiness Direction .
-- **Best Perfoming clients , relation between Amount spent and Restaurant visit durations . 
+- Winning products and Sales provided , Date to Date Sales and Bussiness Direction .
+- Best Perfoming clients , relation between Amount spent and Restaurant visit durations . 
 
 ## Data Sources
 The project utilizes data from multiple sources:
