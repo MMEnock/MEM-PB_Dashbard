@@ -41,4 +41,4 @@ To contribute, please fork the repository, make your changes, and submit a pull 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
 
 ## Contact
-For questions or to provide feedback, please reach out via GitHub or email [your email].
+For questions or to provide feedback, please reach out via GitHub or memugisha@outlook.com
